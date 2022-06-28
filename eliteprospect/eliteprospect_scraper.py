@@ -168,7 +168,7 @@ def getPlayerStats(playerlinks):
     """    
     
     # Name of table to get data from
-    tablename = "table table-striped table-condensed table-sortable player-stats skater-stats highlight-stats"
+    tablename = "table table-condensed table-sortable player-stats skater-stats highlight-stats"
     
     data=[]
     collected_rows=0
